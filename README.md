@@ -1,4 +1,4 @@
-# 🥟 Baozí Store API
+# 🥟 Baozi Store API
 
 API REST para gerenciamento da Baozí Store - uma loja especializada em pãozinho chinês.
 
