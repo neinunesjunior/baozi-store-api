@@ -1,6 +1,6 @@
 # 🥟 Baozi Store API
 
-API REST para gerenciamento da Baozí Store - uma loja especializada em pãozinho chinês.
+API REST para gerenciamento da Baozi Store - uma loja especializada em pãozinho chinês.
 
 ## Tecnologias Utilizadas
 
