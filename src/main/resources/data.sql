@@ -5,7 +5,7 @@ INSERT INTO clientes (nome, cliente_desde) VALUES
 ('Joao Pereira', '2026-08-15');
 
 INSERT INTO produtos (nome, preco, estoque) VALUES 
-('Pão de Porco Baozi', 8.50, true),
+('Pão Baozi', 8.50, true),
 ('Pão de Carne Baozi', 9.50, true),
 ('Pão de Frango Baozi', 7.50, false),
 ('Pão Vegetariano Baozi', 6.50, true);
