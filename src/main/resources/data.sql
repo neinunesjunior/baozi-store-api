@@ -1,8 +1,8 @@
--- Inserir dados de exemplo
+-- Inserir dados de exemplo APÓS as tabelas serem criadas
 INSERT INTO clientes (nome, cliente_desde) VALUES 
 ('Claudilei5158446', '2026-01-15'),
 ('Maria Silva', '2025-12-01'),
-('João Pereira', '2026-02-10');
+('Joao Pereira', '2026-02-10');
 
 INSERT INTO produtos (nome, preco, estoque) VALUES 
 ('Pão de Porco Baozi', 8.50, true),
